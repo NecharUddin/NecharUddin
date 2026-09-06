@@ -77,33 +77,27 @@ An open-source PHP/MySQL password and OTP vault with encrypted data storage and 
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 **Languages**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=php,js,html,css" />
 
-<br/><br/>
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 **Backend & Database**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=php,mysql" />
 
-<br/><br/>
-
 **Cloud & Hosting**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=cloudflare" />
 
-<br/><br/>
-
 **Dev Tools & OS**
-<br/>
+
 <img src="https://skillicons.dev/icons?i=git,github,linux" />
 
-</div>
-
-> Also working with **cPanel** and **Minecraft Server Development** — no dedicated icons available for these yet.
+> Also working with **cPanel** and **Minecraft Server Development** (no dedicated icons available).
 
 <br/>
 
